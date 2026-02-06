@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "이미 늦었습니다",
     description: "누르지 말랬잖아",
     // 배포하고 나서 실제 주소로 바꾸면 됨
-    url: "https://dont-click.vercel.app",
+    url: "https://already-late.vercel.app/",
     siteName: "이미 늦었습니다",
     images: [
       {
