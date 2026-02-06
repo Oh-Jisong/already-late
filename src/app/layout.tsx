@@ -31,6 +31,12 @@ export const metadata: Metadata = {
     locale: "ko_KR",
     type: "website",
   },
+  twitter: {
+  card: "summary_large_image",
+  title: "이미 늦었습니다",
+  description: "누르지 말랬잖아",
+  images: ["/og.png"],
+  }
 };
 
 export default function RootLayout({
