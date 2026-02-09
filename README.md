@@ -43,12 +43,12 @@
 
 ## Live Demo
 
-🔗
-<p align="center">
+<p>
   <a href="https://already-late.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
+
 ---
 
 ## Why This Project
